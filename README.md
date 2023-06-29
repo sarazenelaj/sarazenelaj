@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarazenelaj
 - 👀 I’m interested in coding and learning new skills.
-- 🌱 I have knowledge in java, html, css, javascript, c,c++, r.
+- 🌱 I have knowledge in java,apex, html, css, javascript,lwc, c,c++, r,.
 - 💞️ I’m looking to collaborate on different projects, where I can demonstrate my abilities at programming.
 - 📫 How to reach me => email: zenelajsara2000@gmail.com
 
